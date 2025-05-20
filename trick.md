@@ -79,3 +79,12 @@ pip install torch --upgrade
 ```bash
 unset GIT_SSL_BACKEND
 ```
+
+----------
+
+#### 远程控制计算机60秒后关机
+
+```cmd
+shutdown /s /t 60
+```
+
